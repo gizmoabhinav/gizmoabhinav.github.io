@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 	<app>
-		<name>Example</name>
-		<id>com.example</id>
+		<name>Outlook</name>
+		<id>com.microsoft.office.outlook</id>
+	</app>
+	<app>
+		<name>Kaizala</name>
+		<id>com.microsoft.mobile.polymer</id>
 	</app>
 </apps>

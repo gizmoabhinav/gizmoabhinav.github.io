@@ -1,11 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 	<app>
-		<name>Outlook</name>
-		<id>com.microsoft.office.outlook</id>
+		<name>Helo</name>
+		<id>app.buzz.share</id>
 	</app>
 	<app>
-		<name>Kaizala</name>
-		<id>com.microsoft.mobile.polymer</id>
+		<name>SHAREit</name>
+		<id>com.lenovo.anyshare.gps</id>
+	</app>
+	<app>
+		<name>TikTok</name>
+		<id>com.zhiliaoapp.musically</id>
+	</app>
+	<app>
+		<name>TikTok Wall Picture</name>
+		<id>com.zhiliao.musically.livewallpaper</id>
+	</app>
+	<app>
+		<name>Kwai</name>
+		<id>com.kwai.video</id>
+	</app>
+	<app>
+		<name>UC Browser</name>
+		<id>com.UCMobile.intl</id>
+	</app>
+	<app>
+		<name>UC Mini</name>
+		<id>com.uc.browser.en</id>
+	</app>
+	<app>
+		<name>BIGO LIVE</name>
+		<id>sg.bigo.live</id>
+	</app>
+	<app>
+		<name>Vigo Video</name>
+		<id>com.ss.android.ugc.boom</id>
+	</app>
+	<app>
+		<name>Vigo Video Live Photo</name>
+		<id>com.ss.android.ugc.boom.livewallpaper</id>
+	</app>
+	<app>
+		<name>BeautyPlus</name>
+		<id>com.commsource.beautyplus</id>
+	</app>
+	<app>
+		<name>Xender</name>
+		<id>cn.xender</id>
+	</app>
+	<app>
+		<name>CamScanner</name>
+		<id>com.intsig.camscanner</id>
+	</app>
+	<app>
+		<name>PUBG MOBILE</name>
+		<id>com.tencent.ig</id>
+	</app>
+	<app>
+		<name>PUBG MOBILE LITE</name>
+		<id>com.tencent.iglite</id>
+	</app>
+	<app>
+		<name>Clash of Kings</name>
+		<id>com.hcg.cok.gp</id>
+	</app>
+	<app>
+		<name>Mobile Legends: Bang Bang</name>
+		<id>com.mobile.legends</id>
+	</app>
+	<app>
+		<name>Mobile Legends: Adventure</name>
+		<id>com.moonton.mobilehero</id>
+	</app>
+	<app>
+		<name>Club Factory</name>
+		<id>club.fromfactory</id>
+	</app>
+	<app>
+		<name>SHEIN</name>
+		<id>com.zzkko</id>
+	</app>
+	<app>
+		<name>ROMWE</name>
+		<id>com.romwe</id>
 	</app>
 </apps>

@@ -3,85 +3,121 @@
 	<app>
 		<name>Helo</name>
 		<id>app.buzz.share</id>
+		<image>/images/helo.webp</image>
 	</app>
 	<app>
 		<name>SHAREit</name>
 		<id>com.lenovo.anyshare.gps</id>
+		<image>/images/shareit.webp</image>
 	</app>
 	<app>
 		<name>TikTok</name>
 		<id>com.zhiliaoapp.musically</id>
+		<image>/images/tiktok.webp</image>
 	</app>
 	<app>
 		<name>TikTok Wall Picture</name>
 		<id>com.zhiliao.musically.livewallpaper</id>
+		<image>/images/tiktokwallpicture.webp</image>
 	</app>
 	<app>
 		<name>Kwai</name>
 		<id>com.kwai.video</id>
+		<image>/images/kwai.webp</image>
 	</app>
 	<app>
 		<name>UC Browser</name>
 		<id>com.UCMobile.intl</id>
+		<image>/images/ucbrowser.webp</image>
 	</app>
 	<app>
 		<name>UC Mini</name>
 		<id>com.uc.browser.en</id>
+		<image>/images/ucbrowsermini.webp</image>
 	</app>
 	<app>
 		<name>BIGO LIVE</name>
 		<id>sg.bigo.live</id>
+		<image>/images/bigolive.webp</image>
 	</app>
 	<app>
 		<name>Vigo Video</name>
 		<id>com.ss.android.ugc.boom</id>
+		<image>/images/vigovideo.webp</image>
 	</app>
 	<app>
 		<name>Vigo Video Live Photo</name>
 		<id>com.ss.android.ugc.boom.livewallpaper</id>
+		<image>/images/vigovideolivephoto.webp</image>
 	</app>
 	<app>
 		<name>BeautyPlus</name>
 		<id>com.commsource.beautyplus</id>
+		<image>/images/beautyplus.webp</image>
 	</app>
 	<app>
 		<name>Xender</name>
 		<id>cn.xender</id>
+		<image>/images/xender.webp</image>
 	</app>
 	<app>
 		<name>CamScanner</name>
 		<id>com.intsig.camscanner</id>
+		<image>/images/camscanner.webp</image>
 	</app>
 	<app>
 		<name>PUBG MOBILE</name>
 		<id>com.tencent.ig</id>
+		<image>/images/pubgmobile.webp</image>
 	</app>
 	<app>
 		<name>PUBG MOBILE LITE</name>
 		<id>com.tencent.iglite</id>
+		<image>/images/pubgmobilelite.webp</image>
 	</app>
 	<app>
 		<name>Clash of Kings</name>
 		<id>com.hcg.cok.gp</id>
+		<image>/images/clashofkings.webp</image>
 	</app>
 	<app>
 		<name>Mobile Legends: Bang Bang</name>
 		<id>com.mobile.legends</id>
+		<image>/images/mobilelegendsbangbang.webp</image>
 	</app>
 	<app>
 		<name>Mobile Legends: Adventure</name>
 		<id>com.moonton.mobilehero</id>
+		<image>/images/mobilelegendsadventure.webp</image>
 	</app>
 	<app>
 		<name>Club Factory</name>
 		<id>club.fromfactory</id>
+		<image>/images/clubfactory.webp</image>
 	</app>
 	<app>
 		<name>SHEIN</name>
 		<id>com.zzkko</id>
+		<image>/images/shein.webp</image>
 	</app>
 	<app>
 		<name>ROMWE</name>
 		<id>com.romwe</id>
+		<image>/images/romwe.webp</image>
+	</app>
+	<app>
+		<name>VMate</name>
+		<id>com.uc.vmate</id>
+		<image>/images/vmate.webp</image>
+	</app>
+	<app>
+		<name>Game of Sultans</name>
+		<id>com.dc.hwsj</id>
+		<image>/images/gameofsultans.webp</image>
+	</app>
+	<app>
+		<name>Mafia City</name>
+		<id>com.yottagames.mafiawar</id>
+		<image>/images/mafiacity.webp</image>
 	</app>
 </apps>

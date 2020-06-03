@@ -66,6 +66,11 @@
 		<image>/images/camscanner.webp</image>
 	</app>
 	<app>
+		<name>CamScanner HD</name>
+		<id>com.intsig.camscannerhd</id>
+		<image>/images/camscanner.webp</image>
+	</app>
+	<app>
 		<name>PUBG MOBILE</name>
 		<id>com.tencent.ig</id>
 		<image>/images/pubgmobile.webp</image>

@@ -24,11 +24,6 @@
 			<id>org.telegram.messenger</id>
 			<image>/images/telegram.webp</image>
 		</alternate>
-		<alternate>
-			<name>Kaizala</name>
-			<id>com.microsoft.mobile.polymer</id>
-			<image>/images/kaizala.webp</image>
-		</alternate>
 	</app>
 	<app>
 		<name>SHAREit</name>

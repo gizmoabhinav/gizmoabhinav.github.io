@@ -4,6 +4,31 @@
 		<name>Helo</name>
 		<id>app.buzz.share</id>
 		<image>/images/helo.webp</image>
+		<alternate-india>
+			<name>Hike</name>
+			<id>com.hike.chat.stickers</id>
+			<image>/images/hike.webp</image>
+		</alternate-india>
+		<alternate-india>
+			<name>JioChat</name>
+			<id>com.jiochat.jiochatapp</id>
+			<image>/images/jiochat.webp</image>
+		</alternate-india>
+		<alternate>
+			<name>Microsoft Kaizala</name>
+			<id>com.microsoft.mobile.polymer</id>
+			<image>/images/kaizala.webp</image>
+		</alternate>
+		<alternate>
+			<name>Telegram</name>
+			<id>org.telegram.messenger</id>
+			<image>/images/telegram.webp</image>
+		</alternate>
+		<alternate>
+			<name>Kaizala</name>
+			<id>com.microsoft.mobile.polymer</id>
+			<image>/images/kaizala.webp</image>
+		</alternate>
 	</app>
 	<app>
 		<name>SHAREit</name>
@@ -64,11 +89,31 @@
 		<name>CamScanner</name>
 		<id>com.intsig.camscanner</id>
 		<image>/images/camscanner.webp</image>
+		<alternate>
+			<name>Microsoft Office Lens</name>
+			<id>com.microsoft.office.officelens</id>
+			<image>/images/officelens.webp</image>
+		</alternate>
+		<alternate>
+			<name>Adobe Scan</name>
+			<id>com.adobe.scan.android</id>
+			<image>/images/adobescan.webp</image>
+		</alternate>
 	</app>
 	<app>
 		<name>CamScanner HD</name>
 		<id>com.intsig.camscannerhd</id>
 		<image>/images/camscanner.webp</image>
+		<alternate>
+			<name>Microsoft Office Lens</name>
+			<id>com.microsoft.office.officelens</id>
+			<image>/images/officelens.webp</image>
+		</alternate>
+		<alternate>
+			<name>Adobe Scan</name>
+			<id>com.adobe.scan.android</id>
+			<image>/images/adobescan.webp</image>
+		</alternate>
 	</app>
 	<app>
 		<name>PUBG MOBILE</name>

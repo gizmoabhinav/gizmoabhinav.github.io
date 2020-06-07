@@ -4,7 +4,7 @@
 		<name>Helo</name>
 		<id>app.buzz.share</id>
 		<image>/images/helo.webp</image>
-		<description>Parent company Toutiao, start-up from China</discription>
+		<description>Parent company Toutiao, start-up from China</description>
 		<alternate-india>
 			<name>Hike</name>
 			<id>com.hike.chat.stickers</id>
@@ -14,19 +14,19 @@
 			<name>JioChat</name>
 			<id>com.jiochat.jiochatapp</id>
 			<image>/images/jiochat.webp</image>
-			<description>Parent company Reliance, company from India</discription>
+			<description>Parent company Reliance, company from India</description>
 		</alternate-india>
 		<alternate>
 			<name>Microsoft Kaizala</name>
 			<id>com.microsoft.mobile.polymer</id>
 			<image>/images/kaizala.webp</image>
-			<description>Parent company Microsoft, a multinational company</discription>
+			<description>Parent company Microsoft, a multinational company</description>
 		</alternate>
 		<alternate>
 			<name>Telegram</name>
 			<id>org.telegram.messenger</id>
 			<image>/images/telegram.webp</image>
-			<description>Open source software</discription>
+			<description>Open source software</description>
 		</alternate>
 	</app>
 	<app>

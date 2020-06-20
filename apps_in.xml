@@ -12,4 +12,44 @@
 		<image>/images/licious.webp</image>
 		<description>Delightful Gourmet Pvt Ltd</description>
 	</app>
+	<app>
+		<name>sRide</name>
+		<id>co.sride</id>
+		<image>/images/sride.webp</image>
+		<description>sRide LLC</description>
+	</app>
+	<app>
+		<name>BigBasket</name>
+		<id>com.bigbasket.mobileapp</id>
+		<image>/images/bigbasket.webp</image>
+	</app>
+	<app>
+		<name>DineOut</name>
+		<id>com.dineout.book</id>
+		<image>/images/dineout.webp</image>
+	</app>
+	<app>
+		<name>Moneycontrol</name>
+		<id>com.divum.MoneyControl</id>
+		<image>/images/moneycontrol.webp</image>
+		<description>network 18</description>
+	</app>
+	<app>
+		<name>FAASOS</name>
+		<id>com.done.faasos</id>
+		<image>/images/faasos.webp</image>
+		<description>RFPL</description>
+	</app>
+	<app>
+		<name>Dunzo</name>
+		<id>com.dunzo.user</id>
+		<image>/images/dunzo.webp</image>
+		<description>Dunzo digital</description>
+	</app>
+	<app>
+		<name>Ludo King</name>
+		<id>com.ludo.king</id>
+		<image>/images/ludoking.webp</image>
+		<description>Gametion Technologies Pvt Ltd</description>
+	</app>
 </apps>

@@ -52,4 +52,155 @@
 		<image>/images/ludoking.webp</image>
 		<description>Gametion Technologies Pvt Ltd</description>
 	</app>
+	<app>
+		<name>MakeMyTrip</name>
+		<id>com.makemytrip</id>
+		<image>/images/makemytrip.webp</image>
+	</app>
+	<app>
+		<name>Mastaan</name>
+		<id>com.mastaan.buyer</id>
+		<image>/images/mastaan.webp</image>
+		<description>Aleena Ecommerce Private Limited</description>
+	</app>
+	<app>
+		<name>Bounce</name>
+		<id>com.metrobikes.app</id>
+		<image>/images/bounce.webp</image>
+		<description>Wickedride</description>
+	</app>
+	<app>
+		<name>Milkbasket</name>
+		<id>com.milkbasket.app</id>
+		<image>/images/milkbasket.webp</image>
+	</app>
+	<app>
+		<name>Ludo Club</name>
+		<id>com.moonfrog.ludo.club</id>
+		<image>/images/ludoclub.webp</image>
+		<description>Moonfrog</description>
+	</app>
+	<app>
+		<name>Kotak Mobile Banking</name>
+		<id>com.msf.kbank.mobile</id>
+		<image>/images/kotak.webp</image>
+		<description>Kotak Mahindra Bank Ltd</description>
+	</app>
+	<app>
+		<name>MoveInSync</name>
+		<id>com.moveinsync.ets</id>
+		<image>/images/moveinsync.webp</image>
+	</app>
+	<app>
+		<name>Airtel Thanks</name>
+		<id>com.myairtelapp</id>
+		<image>/images/airtel.webp</image>
+	</app>
+	<app>
+		<name>MyGate</name>
+		<id>com.mygate.user</id>
+		<image>/images/mygate.webp</image>
+	</app>
+	<app>
+		<name>Myntra</name>
+		<id>com.myntra.android</id>
+		<image>/images/myntra.webp</image>
+	</app>
+	<app>
+		<name>NearBuy</name>
+		<id>com.nearbuy.nearbuymobile</id>
+		<image>/images/nearbuy.webp</image>
+		<description>Nearbuy India Pvt Ltd</description>
+	</app>
+	<app>
+		<name>Inshorts</name>
+		<id>com.nis.app</id>
+		<image>/images/inshorts.webp</image>
+	</app>
+	<app>
+		<name>Ola Cabs</name>
+		<id>com.olacabs.customer</id>
+		<image>/images/ola.webp</image>
+	</app>
+	<app>
+		<name>Practo</name>
+		<id>com.practo.fabric</id>
+		<image>/images/practo.webp</image>
+	</app>
+	<app>
+		<name>Practo</name>
+		<id>com.practo.fabric</id>
+		<image>/images/practo.webp</image>
+	</app>
+	<app>
+		<name>SBI YONO</name>
+		<id>com.sbi.lotusintouch</id>
+		<image>/images/sbi.webp</image>
+		<description>State Bank Of India</description>
+	</app>
+	<app>
+		<name>smallcase</name>
+		<id>com.smallcase.android</id>
+		<image>/images/smallcase.webp</image>
+	</app>
+	<app>
+		<name>TenderCuts</name>
+		<id>com.tendercuts.app</id>
+		<image>/images/tendercuts.webp</image>
+		<description>GFM Retail</description>
+	</app>
+	<app>
+		<name>Yatra</name>
+		<id>com.yatra.base</id>
+		<image>/images/yatra.webp</image>
+	</app>
+	<app>
+		<name>Yatra</name>
+		<id>com.yatra.base</id>
+		<image>/images/yatra.webp</image>
+	</app>
+	<app>
+		<name>Coin by Zerodha</name>
+		<id>com.zerodha.coin</id>
+		<image>/images/coin.webp</image>
+	</app>
+	<app>
+		<name>Kite by Zerodha</name>
+		<id>com.zerodha.kite3</id>
+		<image>/images/kite.webp</image>
+	</app>
+	<app>
+		<name>Zerodha Varcity</name>
+		<id>com.zerodha.varsity</id>
+		<image>/images/varsity.webp</image>
+	</app>
+	<app>
+		<name>Cure.Fit</name>
+		<id>fit.cure.android</id>
+		<image>/images/curefit.webp</image>
+		<description>Diverse Retails Pvt. Ltd.</description>
+	</app>
+	<app>
+		<name>BHIM UPI</name>
+		<id>in.org.npci.upiapp</id>
+		<image>/images/bhim.webp</image>
+		<description>National Payments Corporation of India (NPCI)</description>
+	</app>
+	<app>
+		<name>Hotstar</name>
+		<id>in.startv.hotstar</id>
+		<image>/images/hotstar.webp</image>
+		<description>Novi digital</description>
+	</app>
+	<app>
+		<name>Aarogya Setu</name>
+		<id>nic.goi.aarogyasetu</id>
+		<image>/images/aarogyasetu.webp</image>
+		<description>NIC eGov Mobile Apps</description>
+	</app>
+	<app>
+		<name>Swiggy</name>
+		<id>in.swiggy.android</id>
+		<image>/images/swiggy.webp</image>
+	</app>
 </apps>

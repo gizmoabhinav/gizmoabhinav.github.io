@@ -145,11 +145,6 @@
 		<image>/images/clubfactory.webp</image>
 	</app>
 	<app>
-		<name>SHEIN</name>
-		<id>com.zzkko</id>
-		<image>/images/shein.webp</image>
-	</app>
-	<app>
 		<name>ROMWE</name>
 		<id>com.romwe</id>
 		<image>/images/romwe.webp</image>
@@ -212,7 +207,7 @@
 		<description>App createdd by LIVU Team, to meet new people online</description>
 	</app>
 	<app>
-		<name>Cheez</name>
+		<name>KakaoTalk Cheez</name>
 		<id>com.kakao.cheez</id>
 		<image>/images/Cheez.webp</image>
 		<description>Video editing app created by Kakao Corporation</description>

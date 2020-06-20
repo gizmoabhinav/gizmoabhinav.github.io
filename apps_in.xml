@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apps>
+	<app>
+		<name>Paytm</name>
+		<id>net.one97.paytm</id>
+		<image>/images/paytm.webp</image>
+		<description>One97 communications ltd, start-up from India</description>
+	</app>
+	<app>
+		<name>Licious</name>
+		<id>com.licious</id>
+		<image>/images/licious.webp</image>
+		<description>Delightful Gourmet Pvt Ltd</description>
+	</app>
+</apps>

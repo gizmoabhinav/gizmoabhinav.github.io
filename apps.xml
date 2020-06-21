@@ -145,6 +145,11 @@
 		<image>/images/clubfactory.webp</image>
 	</app>
 	<app>
+		<name>SHEIN</name>
+		<id>com.zzkko</id>
+		<image>/images/shein.webp</image>
+	</app>
+	<app>
 		<name>ROMWE</name>
 		<id>com.romwe</id>
 		<image>/images/romwe.webp</image>
@@ -165,75 +170,213 @@
 		<image>/images/mafiacity.webp</image>
 	</app>
 	<app>
-		<name>Turbo VPN</name>
-		<id>free.vpn.unblock.proxy.turbovpn</id>
-		<image>/images/TurboVPN.webp</image>
-		<description>Parent company : Innovative Connecting Tools, start-up from China. Free VPN proxy, connect as a hare to unblock sites, WiFi hotspot secure and protect privacy.  </description>
+		<name>Weibo</name>
+		<id>com.weico.international</id>
+		<image>/images/weibo.webp</image>
 	</app>
 	<app>
-		<name>VPN Monster</name>
-		<id>free.vpn.unblock.proxy.vpnmonster</id>
-		<image>/images/VPNMonster.webp</image>
-		<description>Parent company : Innovative Connecting Tools, start-up from China. Free VPN proxy, connect as a hare to unblock sites, WiFi hotspot secure and protect privacy.  </description>
+		<name>WeChat</name>
+		<id>com.tencent.mm</id>
+		<image>/images/wechat.webp</image>
 	</app>
 	<app>
-		<name>Turbo VPN Lite</name>
-		<id>free.vpn.unblock.proxy.turbovpn.lite</id>
-		<image>/images/TurboVPNLite.webp</image>
-		<description>Parent company : Innovative Connecting Tools, start-up from China. Free VPN proxy, connect as a hare to unblock sites, WiFi hotspot secure and protect privacy.  </description>
+		<name>WeChat</name>
+		<id>com.tencent.mm</id>
+		<image>/images/wechat.webp</image>
 	</app>
 	<app>
-		<name>Turbo VPN</name>
-		<id>free.vpn.unblock.proxy.turbovpn</id>
-		<image>/images/TurboVPN.webp</image>
-		<description>Parent company : Innovative Connecting Tools, start-up from China. Free VPN proxy, connect as a hare to unblock sites, WiFi hotspot secure and protect privacy.  </description>
+		<name>UC News</name>
+		<id>com.uc.iflow</id>
+		<image>/images/ucnews.webp</image>
 	</app>
 	<app>
-		<name>Shein-Fasion Shopping Online</name>
-		<id>com.zzkko</id>
-		<image>/images/Shein.webp</image>
-		<description>SHEIN is an affordable online shopping platform with a distinct tone focusing on women's fashion.</description>
+		<name>Likee</name>
+		<id>video.like</id>
+		<image>/images/likee.webp</image>
 	</app>
 	<app>
-		<name>Shein Women Clothing</name>
-		<id>app.shopsh</id>
-		<image>/images/SheinWomenClothing.webp</image>
-		<description>SHEIN is an affordable online shopping platform with a distinct tone focusing on women's fashion.</description>
+		<name>Likee Lite</name>
+		<id>video.like.lite</id>
+		<image>/images/likeelite.webp</image>
 	</app>
 	<app>
-		<name>LivU</name>
-		<id>com.videochat.livu</id>
-		<image>/images/LivU.webp</image>
-		<description>App createdd by LIVU Team, to meet new people online</description>
+		<name>Photo Wonder</name>
+		<id>com.appbasic.photowonder</id>
+		<image>/images/photowonder.webp</image>
 	</app>
 	<app>
-		<name>KakaoTalk Cheez</name>
-		<id>com.kakao.cheez</id>
-		<image>/images/Cheez.webp</image>
-		<description>Video editing app created by Kakao Corporation</description>
+		<name>Likeelite</name>
+		<id>video.like</id>
+		<image>/images/likee.webp</image>
 	</app>
 	<app>
-		<name>NewsDog</name>
-		<id>com.newsdog</id>
-		<image>/images/NewsDog.webp</image>
-		<description>App createdd by NewsDog Team, to bring you latest protest news and alerts</description>
+		<name>APUS Browser</name>
+		<id>com.apusapps.browser</id>
+		<image>/images/apusbrowser.webp</image>
 	</app>
 	<app>
-		<name>Parallel Space</name>
-		<id>com.lbe.parallel.intl</id>
-		<image>/images/Cheez.webp</image>
-		<description>Created by LBR Tech to clone and run multiple accounts of the same app simultaneously, and use themes to style your unique space.</description>
+		<name>VivaVideo</name>
+		<id>com.quvideo.xiaoying</id>
+		<image>/images/vivavideo.webp</image>
 	</app>
 	<app>
-		<name>UVideo</name>
-		<id>com.kwai.global.video.social.kwaigo</id>
-		<image>/images/NewsDog.webp</image>
-		<description>App createdd by NewsDog Team, to bring you latest protest news and alerts</description>
+		<name>VivaVideo Lite</name>
+		<id>com.quvideo.vivavideo.lite</id>
+		<image>/images/vivavideolite.webp</image>
 	</app>
 	<app>
-		<name>AppLock</name>
-		<id>com.domobile.applockwatcher</id>
-		<image>/images/AppLock.webp</image>
-		<description>App createdd by DoMobile Lab Tools, to hide your apps, pictures, videos, and passwords.</description>
+		<name>VivaVideo Pro</name>
+		<id>com.quvideo.xiaoying.pro</id>
+		<image>/images/vivavideopro.webp</image>
+	</app>
+	<app>
+		<name>YouCam Perfect</name>
+		<id>com.cyberlink.youperfect</id>
+		<image>/images/youcamperfect.webp</image>
+	</app>
+	<app>
+		<name>YouCam Video</name>
+		<id>com.perfectcorp.ycv</id>
+		<image>/images/youcamvideo.webp</image>
+	</app>
+	<app>
+		<name>CM Browser</name>
+		<id>com.digitalnode.cmbrowser</id>
+		<image>/images/cmbrowser.webp</image>
+	</app>
+	<app>
+		<name>Virus Cleaner</name>
+		<id>com.virus.cleaner.antivirus</id>
+		<image>/images/viruscleaner.webp</image>
+	</app>
+	<app>
+		<name>MI Community</name>
+		<id>com.mi.global.bbs</id>
+		<image>/images/micommunity.webp</image>
+	</app>
+	<app>
+		<name>MI Store</name>
+		<id>com.mi.global.shop</id>
+		<image>/images/mistore.webp</image>
+	</app>
+	<app>
+		<name>DU Recorder</name>
+		<id>com.DUrecorder.screenrecorder.videorecorde</id>
+		<image>/images/durecorder.webp</image>
+	</app>
+	<app> 
+		<name>YouCam Makeup</name>
+		<id>com.cyberlink.youcammakeup</id>
+		<image>/images/youcammakeup.webp</image>
+	</app>
+	<app>
+		<name>360 Security</name>
+		<id>com.security.antivirus.totalanti</id>
+		<image>/images/360security.webp</image>
+	</app>
+	<app>
+		<name>DU Cache Cleaner</name>
+		<id>com.DU.speed.booster.Antivirus.cleaner</id>
+		<image>/images/ducleaner.webp</image>
+	</app>
+	<app>
+		<name>DU Cache Cleaner</name>
+		<id>com.DU.speed.booster.Antivirus.cleaner</id>
+		<image>/images/ducleaner.webp</image>
+	</app>
+	<app>
+		<name>DU Battery Saver</name>
+		<id>com.DUsavebattery.faster.charge</id>
+		<image>/images/dubatterysaver.webp</image>
+	</app>
+	<app>
+		<name>DU Antiviris</name>
+		<id>com.DU.antivirus.cleaner.boosterpro</id>
+		<image>/images/duantivirus.webp</image>
+	</app>
+	<app>
+		<name>DU Speed Booster</name>
+		<id>com.limsky.speedbooster</id>
+		<image>/images/duspeedbooster.webp</image>
+	</app>
+	<app>
+		<name>Baidu Map</name>
+		<id>com.baidu.BaiduMap</id>
+		<image>/images/baidumap.webp</image>
+	</app>
+	<app>
+		<name>ES File Explorer</name>
+		<id>com.file.manager.filebrowser</id>
+		<image>/images/esfileexplorer.webp</image>
+	</app>
+	<app>
+		<name>QQ International</name>
+		<id>com.tencent.mobileqq</id>
+		<image>/images/qq.webp</image>
+	</app>
+	<app>
+		<name>QQ Music</name>
+		<id>com.tencent.qqmusic</id>
+		<image>/images/qqmusic.webp</image>
+	</app>
+	<app>
+		<name>QQ Music</name>
+		<id>com.tencent.qqmusic</id>
+		<image>/images/qqmusic.webp</image>
+	</app>
+	<app>
+		<name>QQ Mail</name>
+		<id>com.tencent.androidqqmail</id>
+		<image>/images/qqmail.webp</image>
+	</app>
+	<app>
+		<name>WeSync</name>
+		<id>com.jpro.wesync</id>
+		<image>/images/wesync.webp</image>
+	</app>
+	<app>
+		<name>SelfieCity</name>
+		<id>com.meitu.wheecam</id>
+		<image>/images/selfiecity.webp</image>
+	</app>
+	<app>
+		<name>Mail Master</name>
+		<id>com.netease.mail</id>
+		<image>/images/mailmaster.webp</image>
+	</app>
+	<app>
+		<name>Nonolive</name>
+		<id>com.nono.android</id>
+		<image>/images/nonolive.webp</image>
+	</app>
+	<app>
+		<name>Alipay</name>
+		<id>com.eg.android.AlipayGphone</id>
+		<image>/images/alipay.webp</image>
+	</app>
+	<app>
+		<name>King of Avalon</name>
+		<id>com.funplus.kingofavalon</id>
+		<image>/images/kingofavalon.webp</image>
+	</app>
+	<app>
+		<name>VMate Status</name>
+		<id>com.uc.vmlite</id>
+		<image>/images/vmatestatus.webp</image>
+	</app>
+	<app>
+		<name>VMate</name>
+		<id>com.uc.vmate</id>
+		<image>/images/vmate.webp</image>
+	</app>
+	<app>
+		<name>U-Dictionary</name>
+		<id>com.youdao.hindict</id>
+		<image>/images/udictionary.webp</image>
+	</app>
+	<app>
+		<name>Forest: Stay Focused</name>
+		<id>cc.forestapp</id>
+		<image>/images/forest.webp</image>
 	</app>
 </apps>

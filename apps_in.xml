@@ -203,4 +203,44 @@
 		<id>in.swiggy.android</id>
 		<image>/images/swiggy.webp</image>
 	</app>
+	<app>
+		<name>Shuttl</name>
+		<id>app.goplus.in.myapplication</id>
+		<image>/images/shuttl.webp</image>
+	</app>
+	<app>
+		<name>IGL Connect</name>
+		<id>com.CustomerApp</id>
+		<image>/images/iglconnect.webp</image>
+	</app>
+	<app>
+		<name>World of Hayatt</name>
+		<id>com.Hyatt.hyt</id>
+		<image>/images/hayatt.webp</image>
+	</app>
+	<app>
+		<name>My Cams</name>
+		<id>com.KCamsApp</id>
+		<image>/images/mycams.webp</image>
+	</app>
+	<app>
+		<name>NetMeds</name>
+		<id>com.NetmedsMarketplace.Netmeds</id>
+		<image>/images/netmeds.webp</image>
+	</app>
+	<app>
+		<name>Pepperfry</name>
+		<id>com.app.pepperfry</id>
+		<image>/images/pepperfry.webp</image>
+	</app>
+	<app>
+		<name>Zomato</name>
+		<id>com.application.zomato</id>
+		<image>/images/zomato.webp</image>
+	</app>
+	<app>
+		<name>Lifestyle</name>
+		<id>com.applications.lifestyle</id>
+		<image>/images/lifestyle.webp</image>
+	</app>
 </apps>

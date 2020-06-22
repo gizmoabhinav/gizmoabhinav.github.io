@@ -379,4 +379,29 @@
 		<id>cc.forestapp</id>
 		<image>/images/forest.webp</image>
 	</app>
+	<app>
+		<name>Music Editor Pro</name>
+		<id>com.binghuo.audioeditor.mp3editor.musiceditor.pro</id>
+		<image>/images/musiceditor.webp</image>
+	</app>
+	<app>
+		<name>MI Remote</name>
+		<id>com.duokan.phone.remotecontroller</id>
+		<image>/images/miremote.webp</image>
+	</app>
+	<app>
+		<name>Walk Band</name>
+		<id>com.gamestar.pianoperfect</id>
+		<image>/images/walkband.webp</image>
+	</app>
+	<app>
+		<name>Dual Space</name>
+		<id>com.ludashi.dualspace</id>
+		<image>/images/dualspace.webp</image>
+	</app>
+	<app>
+		<name>Screen Recorder</name>
+		<id>screenrecorder.recorder.editor</id>
+		<image>/images/screenrecorder.webp</image>
+	</app>
 </apps>

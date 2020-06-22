@@ -243,4 +243,119 @@
 		<id>com.applications.lifestyle</id>
 		<image>/images/lifestyle.webp</image>
 	</app>
+	<app>
+		<name>MP3 Cutter and Ringtone Maker</name>
+		<id>com.atomic.apps.ringtone.cutter</id>
+		<image>/images/mp3cut.webp</image>
+	</app>
+	<app>
+		<name>File Manager</name>
+		<id>com.augustro.filemanager</id>
+		<image>/images/filemanager.webp</image>
+	</app>
+	<app>
+		<name>Aviva</name>
+		<id>com.aviva.mobile</id>
+		<image>/images/aviva.webp</image>
+	</app>
+	<app>
+		<name>Air India</name>
+		<id>com.bets.airindia.ui</id>
+		<image>/images/airindia.webp</image>
+	</app>
+	<app>
+		<name>BIS Care</name>
+		<id>com.bis.bisapp</id>
+		<image>/images/biscare.webp</image>
+	</app>
+	<app>
+		<name>Wynk Music</name>
+		<id>com.bsbportal.music</id>
+		<image>/images/wynk.webp</image>
+	</app>
+	<app>
+		<name>BookMyShow</name>
+		<id>com.bt.bms</id>
+		<image>/images/bookmyshow.webp</image>
+	</app>
+	<app>
+		<name>Walnut</name>
+		<id>com.daamitt.walnut.app</id>
+		<image>/images/walnut.webp</image>
+	</app>
+	<app>
+		<name>CRED</name>
+		<id>com.dreamplug.androidapp</id>
+		<image>/images/cred.webp</image>
+	</app>
+	<app>
+		<name>Epic On</name>
+		<id>com.epicchannel.epicon</id>
+		<image>/images/epicon.webp</image>
+	</app>
+	<app>
+		<name>ESAY</name>
+		<id>com.esay.arawinzsoft</id>
+		<image>/images/esay.webp</image>
+	</app>
+	<app>
+		<name>Flipkart</name>
+		<id>com.flipkart.android</id>
+		<image>/images/flipkart.webp</image>
+	</app>
+	<app>
+		<name>Nykaa</name>
+		<id>com.fsn.nds</id>
+		<image>/images/nykaa.webp</image>
+	</app>
+	<app>
+		<name>Nykaa Beauty</name>
+		<id>com.fsn.nykaa</id>
+		<image>/images/nykaab.webp</image>
+	</app>
+	<app>
+		<name>OBC mPAY</name>
+		<id>com.fss.mobilepay.obc</id>
+		<image>/images/obc.webp</image>
+	</app>
+	<app>
+		<name>SBI Card</name>
+		<id>com.ge.capital.konysbiapp</id>
+		<image>/images/sbicard.webp</image>
+	</app>
+	<app>
+		<name>IRCTC eCatering</name>
+		<id>com.irctc.fot</id>
+		<image>/images/irctcec.webp</image>
+	</app>
+	<app>
+		<name>JioHome</name>
+		<id>com.jio.home</id>
+		<image>/images/jiohome.webp</image>
+	</app>
+	<app>
+		<name>JioTv</name>
+		<id>com.jio.jioplay.tv</id>
+		<image>/images/jiotv.webp</image>
+	</app>
+	<app>
+		<name>JioCall</name>
+		<id>com.jio.join</id>
+		<image>/images/jiocall.webp</image>
+	</app>
+	<app>
+		<name>JioCinema</name>
+		<id>com.jio.media.ondemand</id>
+		<image>/images/jiocinema.webp</image>
+	</app>
+	<app>
+		<name>MyJio</name>
+		<id>com.jio.myjio</id>
+		<image>/images/myjio.webp</image>
+	</app>
+	<app>
+		<name>UrbanClap</name>
+		<id>com.urbanclap.urbanclap</id>
+		<image>/images/urbanclap.webp</image>
+	</app>
 </apps>

@@ -473,10 +473,5 @@
 		<id>cn.wps.pdf.fillsign</id>
 		<image>/images/wpspdffill.webp</image>
 		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
-		<alternate>
-			<name>Google PDF Viewer</name>
-			<id>com.google.android.apps.pdfviewer</id>
-			<image>/images/pdfviewer.webp</image>
-		</alternate>
 	</app>
 </apps>

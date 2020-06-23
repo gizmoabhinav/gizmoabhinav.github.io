@@ -389,7 +389,7 @@
 		<image>/images/indiamart.webp</image>
 	</app>
 	<app>
-		<name>Indian Railway & IRCTC Info app</name>
+		<name>Indian Railway and IRCTC Info app</name>
 		<id>com.indianrail.thinkapps.irctc</id>
 		<image>/images/indiarail.webp</image>
 	</app>
@@ -421,6 +421,6 @@
 	<app>
 		<name>Groww</name>
 		<id>com.nextbillion.groww</id>
-		<image>/images/mitron.webp</image>
+		<image>/images/groww.webp</image>
 	</app>
 </apps>

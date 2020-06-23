@@ -1,6 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <apps>
 	<app>
+		<name>WPS Office</name>
+		<id>cn.wps.moffice_eng</id>
+		<image>/images/wps.webp</image>
+		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
+		<alternate>
+			<name>Microsoft Office</name>
+			<id>com.microsoft.office.officehubrow</id>
+			<image>/images/msoffice.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft Word</name>
+			<id>com.microsoft.office.word</id>
+			<image>/images/msword.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft PowerPoint</name>
+			<id>com.microsoft.office.powerpoint</id>
+			<image>/images/powerpoint.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft Excel</name>
+			<id>com.microsoft.office.excel</id>
+			<image>/images/msexcel.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Docs</name>
+			<id>com.google.android.apps.docs.editors.docs</id>
+			<image>/images/googledocs.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Sheets</name>
+			<id>com.google.android.apps.docs.editors.sheets</id>
+			<image>/images/sheets.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Slides</name>
+			<id>com.google.android.apps.docs.editors.slides</id>
+			<image>/images/slides.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google PDF Viewer</name>
+			<id>com.google.android.apps.pdfviewer</id>
+			<image>/images/pdfviewer.webp</image>
+		</alternate>
+	</app>
+	<app>
+		<name>WPS Office Lite</name>
+		<id>cn.wps.moffice_i18n</id>
+		<image>/images/wpslite.webp</image>
+		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
+		<alternate>
+			<name>Microsoft Office</name>
+			<id>com.microsoft.office.officehubrow</id>
+			<image>/images/msoffice.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft Word</name>
+			<id>com.microsoft.office.word</id>
+			<image>/images/msword.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft PowerPoint</name>
+			<id>com.microsoft.office.powerpoint</id>
+			<image>/images/powerpoint.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft Excel</name>
+			<id>com.microsoft.office.excel</id>
+			<image>/images/msexcel.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Docs</name>
+			<id>com.google.android.apps.docs.editors.docs</id>
+			<image>/images/googledocs.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Sheets</name>
+			<id>com.google.android.apps.docs.editors.sheets</id>
+			<image>/images/sheets.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Slides</name>
+			<id>com.google.android.apps.docs.editors.slides</id>
+			<image>/images/slides.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google PDF Viewer</name>
+			<id>com.google.android.apps.pdfviewer</id>
+			<image>/images/pdfviewer.webp</image>
+		</alternate>
+	</app>
+	<app>
+		<name>WPS Office Extra Goodies</name>
+		<id>cn.wps.moffice_extra</id>
+		<image>/images/wpsextra.webp</image>
+		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
+		<alternate>
+			<name>Microsoft Office</name>
+			<id>com.microsoft.office.officehubrow</id>
+			<image>/images/msoffice.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft Word</name>
+			<id>com.microsoft.office.word</id>
+			<image>/images/msword.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft PowerPoint</name>
+			<id>com.microsoft.office.powerpoint</id>
+			<image>/images/powerpoint.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft Excel</name>
+			<id>com.microsoft.office.excel</id>
+			<image>/images/msexcel.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Docs</name>
+			<id>com.google.android.apps.docs.editors.docs</id>
+			<image>/images/googledocs.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Sheets</name>
+			<id>com.google.android.apps.docs.editors.sheets</id>
+			<image>/images/sheets.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Slides</name>
+			<id>com.google.android.apps.docs.editors.slides</id>
+			<image>/images/slides.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google PDF Viewer</name>
+			<id>com.google.android.apps.pdfviewer</id>
+			<image>/images/pdfviewer.webp</image>
+		</alternate>
+	</app>
+	<app>
+		<name>WPS PDF</name>
+		<id>cn.wps.pdf</id>
+		<image>/images/wpspdf.webp</image>
+		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
+		<alternate>
+			<name>Microsoft Office</name>
+			<id>com.microsoft.office.officehubrow</id>
+			<image>/images/msoffice.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google PDF Viewer</name>
+			<id>com.google.android.apps.pdfviewer</id>
+			<image>/images/pdfviewer.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft Word</name>
+			<id>com.microsoft.office.word</id>
+			<image>/images/msword.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Docs</name>
+			<id>com.google.android.apps.docs.editors.docs</id>
+			<image>/images/googledocs.webp</image>
+		</alternate>
+	</app>
+	<app>
+		<name>WPS PDF Fill and Sign</name>
+		<id>cn.wps.pdf.fillsign</id>
+		<image>/images/wpspdffill.webp</image>
+		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
+		<alternate>
+			<name>Microsoft Office</name>
+			<id>com.microsoft.office.officehubrow</id>
+			<image>/images/msoffice.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google PDF Viewer</name>
+			<id>com.google.android.apps.pdfviewer</id>
+			<image>/images/pdfviewer.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft Word</name>
+			<id>com.microsoft.office.word</id>
+			<image>/images/msword.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Docs</name>
+			<id>com.google.android.apps.docs.editors.docs</id>
+			<image>/images/googledocs.webp</image>
+		</alternate>
+	</app>
+	<app>
 		<name>Helo</name>
 		<id>app.buzz.share</id>
 		<image>/images/helo.webp</image>
@@ -443,45 +633,5 @@
 		<name>Powerful Cleaner</name>
 		<id>com.glgjing.vision</id>
 		<image>/images/powerfulcleaner.webp</image>
-	</app>
-	<app>
-		<name>WPS Office</name>
-		<id>cn.wps.moffice_eng</id>
-		<image>/images/wps.webp</image>
-		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
-		<alternate>
-			<name>Microsoft Office Lens</name>
-			<id>com.microsoft.office.officelens</id>
-			<image>/images/officelens.webp</image>
-		</alternate>
-		<alternate>
-			<name>Adobe Scan</name>
-			<id>com.adobe.scan.android</id>
-			<image>/images/adobescan.webp</image>
-		</alternate>
-	</app>
-	<app>
-		<name>WPS Office Lite</name>
-		<id>cn.wps.moffice_i18n</id>
-		<image>/images/wpslite.webp</image>
-		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
-	</app>
-	<app>
-		<name>WPS Office Extra Goodies</name>
-		<id>cn.wps.moffice_extra</id>
-		<image>/images/wpsextra.webp</image>
-		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
-	</app>
-	<app>
-		<name>WPS PDF</name>
-		<id>cn.wps.pdf</id>
-		<image>/images/wpspdf.webp</image>
-		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
-	</app>
-	<app>
-		<name>WPS PDF Fill and Sign</name>
-		<id>cn.wps.pdf.fillsign</id>
-		<image>/images/wpspdffill.webp</image>
-		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
 	</app>
 </apps>

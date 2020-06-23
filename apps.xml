@@ -449,6 +449,16 @@
 		<id>cn.wps.moffice_eng</id>
 		<image>/images/wps.webp</image>
 		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
+		<alternate>
+			<name>Microsoft Office Lens</name>
+			<id>com.microsoft.office.officelens</id>
+			<image>/images/officelens.webp</image>
+		</alternate>
+		<alternate>
+			<name>Adobe Scan</name>
+			<id>com.adobe.scan.android</id>
+			<image>/images/adobescan.webp</image>
+		</alternate>
 	</app>
 	<app>
 		<name>WPS Office Lite</name>

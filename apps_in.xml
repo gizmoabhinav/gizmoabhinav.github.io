@@ -358,4 +358,69 @@
 		<id>com.urbanclap.urbanclap</id>
 		<image>/images/urbanclap.webp</image>
 	</app>
+	<app>
+		<name>Ullu</name>
+		<id>cdi.videostreaming.app</id>
+		<image>/images/ullu.webp</image>
+	</app>
+	<app>
+		<name>Cricbuzz</name>
+		<id>com.cricbuzz.android</id>
+		<image>/images/cricbuzz.webp</image>
+	</app>
+	<app>
+		<name>4k wallpaper Full HD wallpaper</name>
+		<id>com.hdwallpaper.wallpaper</id>
+		<image>/images/hdwallpaper.webp</image>
+	</app>
+	<app>
+		<name>Housing Assist</name>
+		<id>com.housing.android.agent</id>
+		<image>/images/housingassist.webp</image>
+	</app>
+	<app>
+		<name>Housing</name>
+		<id>com.locon.housing</id>
+		<image>/images/housing.webp</image>
+	</app>
+	<app>
+		<name>IndiaMART</name>
+		<id>com.indiamart.m</id>
+		<image>/images/indiamart.webp</image>
+	</app>
+	<app>
+		<name>Indian Railway & IRCTC Info app</name>
+		<id>com.indianrail.thinkapps.irctc</id>
+		<image>/images/indiarail.webp</image>
+	</app>
+	<app>
+		<name>JioNews</name>
+		<id>com.jio.jionews</id>
+		<image>/images/jionews.webp</image>
+	</app>
+	<app>
+		<name>JioNews</name>
+		<id>com.jio.media.jioxpressnews</id>
+		<image>/images/jionews.webp</image>
+	</app>
+	<app>
+		<name>JioBrowser</name>
+		<id>com.jio.web</id>
+		<image>/images/jioweb.webp</image>
+	</app>
+	<app>
+		<name>JioMags</name>
+		<id>com.jio.media.jiomags</id>
+		<image>/images/jiomags.webp</image>
+	</app>
+	<app>
+		<name>Mitron</name>
+		<id>com.mitron.tv</id>
+		<image>/images/mitron.webp</image>
+	</app>
+	<app>
+		<name>Groww</name>
+		<id>com.nextbillion.groww</id>
+		<image>/images/mitron.webp</image>
+	</app>
 </apps>

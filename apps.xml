@@ -404,4 +404,44 @@
 		<id>screenrecorder.recorder.editor</id>
 		<image>/images/screenrecorder.webp</image>
 	</app>
+	<app>
+		<name>AliExpress</name>
+		<id>com.alibaba.aliexpresshd</id>
+		<image>/images/aliexpress.webp</image>
+	</app>
+	<app>
+		<name>Alibaba.com</name>
+		<id>com.alibaba.intl.android.apps.poseidon</id>
+		<image>/images/alibaba.webp</image>
+	</app>
+	<app>
+		<name>AliSuppliers</name>
+		<id>com.alibaba.icbu.app.seller</id>
+		<image>/images/alisellers.webp</image>
+	</app>
+	<app>
+		<name>RAM Booster</name>
+		<id>com.glgjing.captain</id>
+		<image>/images/rambooster.webp</image>
+	</app>
+	<app>
+		<name>CPU Monitor</name>
+		<id>com.glgjing.stark</id>
+		<image>/images/cpumonitor.webp</image>
+	</app>
+	<app>
+		<name>Battery Monitor</name>
+		<id>com.glgjing.hulk</id>
+		<image>/images/batterymonitor.webp</image>
+	</app>
+	<app>
+		<name>Game Booster</name>
+		<id>com.glgjing.game.booster.lite</id>
+		<image>/images/gamebooster.webp</image>
+	</app>
+	<app>
+		<name>Powerful Cleaner</name>
+		<id>com.glgjing.vision</id>
+		<image>/images/powerfulcleaner.webp</image>
+	</app>
 </apps>

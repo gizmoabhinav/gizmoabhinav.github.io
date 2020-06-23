@@ -449,6 +449,46 @@
 		<id>cn.wps.moffice_eng</id>
 		<image>/images/wps.webp</image>
 		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
+		<alternate>
+			<name>Microsoft Office</name>
+			<id>com.microsoft.office.officehubrow</id>
+			<image>/images/msoffice.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft Word</name>
+			<id>com.microsoft.office.word</id>
+			<image>/images/msword.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft PowerPoint</name>
+			<id>com.microsoft.office.powerpoint</id>
+			<image>/images/powerpoint.webp</image>
+		</alternate>
+		<alternate>
+			<name>Microsoft Excel</name>
+			<id>com.microsoft.office.excel</id>
+			<image>/images/msexcel.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Docs</name>
+			<id>com.google.android.apps.docs.editors.docs</id>
+			<image>/images/googledocs.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Sheets</name>
+			<id>com.google.android.apps.docs.editors.sheets</id>
+			<image>/images/sheets.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google Slides</name>
+			<id>com.google.android.apps.docs.editors.slides</id>
+			<image>/images/slides.webp</image>
+		</alternate>
+		<alternate>
+			<name>Google PDF Viewer</name>
+			<id>com.google.android.apps.pdfviewer</id>
+			<image>/images/pdfviewer.webp</image>
+		</alternate>
 	</app>
 	<app>
 		<name>WPS Office Lite</name>

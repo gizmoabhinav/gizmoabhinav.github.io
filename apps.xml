@@ -739,4 +739,119 @@
 		<id>solitaire.solitairemaker.solitaire.klondike.card</id>
 		<image>/images/android.webp</image>
 	</app>
+	<app>
+		<name>WPS Office</name>
+		<id>cn.wps.moffice.eng</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Xiaomi WPS</name>
+		<id>cn.wps.xiaomi.abroad.lite</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Xender - Share MusicandVideo,Status Saver,Transfer</name>
+		<id>cn.xender</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Can you escape the 100 room XI</name>
+		<id>com.appbond.the100roomxi</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Tiny Scanner - PDF Scanner App</name>
+		<id>com.appxy.tinyscanner</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Shoot n Merge - Block puzzle</name>
+		<id>com.block1010.shoot2048.free</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Call Recorder - Cube ACR</name>
+		<id>com.catalinagroup.callrecorder</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>YouCam Perfect - Best Selfie Camera and Photo Editor</name>
+		<id>com.cyberlink.youperfect</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>AppLock</name>
+		<id>com.domobile.applockwatcher</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Peel Mi Remote</name>
+		<id>com.duokan.phone.remotecontroller.peel.plugin</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Jewels Classic - Jewel Crush Legend</name>
+		<id>com.dysugar.jewels.prince</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Moon+ Reader</name>
+		<id>com.flyersoft.moonreader</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>QR and Barcode Scanner</name>
+		<id>com.gamma.scan</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Keep Trainer - Workout Trainer and Fitness Coach</name>
+		<id>com.gotokeep.keep.intl</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Bricks Ball Crusher</name>
+		<id>com.iposedon.bricksbreakerballs</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Timestamp Camera Free</name>
+		<id>com.jeyluta.timestampcamerafree</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Glance for Mi</name>
+		<id>com.miui.android.fashiongallery</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>App vault</name>
+		<id>com.mi.android.globalpersonalassistant</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>LifeAfter</name>
+		<id>com.netease.mrzhna</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>OnePlus Icon Pack - Oxygen</name>
+		<id>com.oneplus.iconpack.onepluso2</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Super Jim Jump - pixel 3d</name>
+		<id>com.superbros.adventure.jump.free</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Mi Fit</name>
+		<id>com.xiaomi.hm.health</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>ShareMe (MiDrop) - Transfer files without internet</name>
+		<id>com.xiaomi.midrop</id>
+		<image>/images/android.webp</image>
+	</app>
 </apps>

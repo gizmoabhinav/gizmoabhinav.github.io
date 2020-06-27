@@ -854,4 +854,94 @@
 		<id>com.xiaomi.midrop</id>
 		<image>/images/android.webp</image>
 	</app>
+	<app>
+		<name>Huawei Health</name>
+		<id>com.huawei.health</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>HUAWEI Video</name>
+		<id>com.huawei.himovie.overseas</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Huawei Mobile Services</name>
+		<id>com.huawei.hwid</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>HiCare</name>
+		<id>com.huawei.phoneservice</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Dual Space - 64Bit Support</name>
+		<id>com.ludashi.dualspace.addon.arm64</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>UNO!</name>
+		<id>com.matteljv.uno</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>MakeupPlus - Your Own Virtual Makeup Artist</name>
+		<id>com.meitu.makeup</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Mi Store</name>
+		<id>com.mi.global.shop</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>9GAG: Funny gifs, pics, fresh memes and viral videos</name>
+		<id>com.ninegag.android.app</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>OnePlus Switch</name>
+		<id>com.oneplus.backuprestore</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>OnePlus Icon Pack - Round</name>
+		<id>com.oneplus.iconpack.circle</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>OnePlus Icon Pack - Square</name>
+		<id>com.oneplus.iconpack.square</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Cricket Scores</name>
+		<id>com.oneplus.opsports</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Photo and Video Downloader for Instagram - Repost IG</name>
+		<id>instake.repost.instagramphotodownloader.instagramvideodownloader</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>OnePlus Community</name>
+		<id>net.oneplus.forums</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>OnePlus Weather</name>
+		<id>net.oneplus.weather</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Square Pic - No Crop Photo Editor for Instagram</name>
+		<id>nocrop.photoeditor.squarepic</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Download Twitter Videos - Save Twitter and GIF</name>
+		<id>twimate.tweetdownloader.savetwittergif.twittervideodownloader</id>
+		<image>/images/android.webp</image>
+	</app>
 </apps>

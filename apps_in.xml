@@ -2623,4 +2623,179 @@
 		<id>indian.railway.app</id>
 		<image>/images/android.webp</image>
 	</app>
+		<app>
+		<name>Grofers - Order Grocery Online</name>
+		<id>com.grofers.customerapp</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>HungerBox Cafe</name>
+		<id>com.hungerbox.customer.common</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>MS cafe</name>
+		<id>com.hungerbox.customer.ms</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>InterMiles  - Travel and Lifestyle Rewards Programme</name>
+		<id>com.intermiles.app</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>NIFT Students App</name>
+		<id>com.ionicframework.niftapp589643</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Corp E-Passbook</name>
+		<id>com.lcode.corpepassbook</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Corp EASE</name>
+		<id>com.lcode.corpmobile</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>UCO bank</name>
+		<id>com.lcode.ucombank</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>UCO mPassbook</name>
+		<id>com.lcode.ucombook</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>MProfit</name>
+		<id>com.mprmobile</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Folder Music Player - Folder Player, Music Player.</name>
+		<id>com.musicplayer.mp3player.foldermusicplayer</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>AstroSage Kundli : Astrology</name>
+		<id>com.ojassoft.astrosage</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>NewsOnAir: Prasar Bharati Official App News andLive</name>
+		<id>com.parsarbharti.airnews</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Video Merge : Easy Video Merger and Video Joiner</name>
+		<id>com.psma.videomerge</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Yono Lite SBI - Mobile Banking</name>
+		<id>com.sbi.SBIFreedomPlus</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Block Text, SMS, Spam Blocker - Key Messages</name>
+		<id>com.smsBlocker</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>HDFC Bank MobileBanking</name>
+		<id>com.snapwork.hdfc</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Maruti Care</name>
+		<id>com.sodel.maruticare</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Tata CLiQ Online Shopping App India</name>
+		<id>com.tul.tatacliq</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Vistara - Indias Best Airline, Flight Bookings</name>
+		<id>com.vistara.tsal</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>ZEB-FIT</name>
+		<id>com.zebfit.multi</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>NTES</name>
+		<id>cris.icms.ntes</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>IRCTC Rail Connect - for RAIL SAARTHI</name>
+		<id>cris.org.in.ima.prs</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>IRCTC Rail Connect</name>
+		<id>cris.org.in.prs.ima</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Govt eProcurement System - NIC</name>
+		<id>gov.nic.eproc</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>eRail.in Railways Train Time Table, Seats, Fare</name>
+		<id>in.erail.m</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Swayam</name>
+		<id>in.gov.swayam.app</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>UMANG</name>
+		<id>in.gov.umang.negd.g2c</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Musicolet Music Player [No ads] 🇮🇳</name>
+		<id>in.krosbits.musicolet</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Postinfo</name>
+		<id>info.indiapost</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>LBB - Discover and Shop Awesome Local Brands</name>
+		<id>littleblackbook.com.littleblackbook.lbbdapp.lbb</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>NPS by NSDL e-Gov</name>
+		<id>nps.nps</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Dr Lal PathLabs</name>
+		<id>pathlabs.com.pathlabs</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Airtel Xstream (Airtel TV): Live TV, Movies, Shows</name>
+		<id>tv.accedo.airtel.wynk</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Uno Friends</name>
+		<id>uno.friends.free.card.ono</id>
+		<image>/images/android.webp</image>
+	</app>
 </apps>

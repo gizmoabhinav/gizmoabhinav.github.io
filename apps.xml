@@ -474,4 +474,114 @@
 		<image>/images/wpspdffill.webp</image>
 		<description>Kingsoft Office Software Corporation Limited - HongKong</description>
 	</app>
+	<app>
+		<name>Dual Apps</name>
+		<id>com.app.hider.master.dual.app</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Dual Apps 32 Support</name>
+		<id>com.app.hider.master.dual.app.helper32</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Block Puzzle: Star Gem</name>
+		<id>com.bitmango.go.blockpuzzlejewelhexamaster</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Battery Monitor</name>
+		<id>com.glgjing.hulk</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>InfoHub - News and RSS with Voice</name>
+		<id>com.infohub.monster</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Mons Camp</name>
+		<id>com.kdcfu.djtrc</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Bubble Shooter: Magic Snail</name>
+		<id>com.kudo.bubblebirdrescue2</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Parallel Space - Multiple accounts and Two face</name>
+		<id>com.lbe.parallel.intl</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Parallel Space - 64Bit Support</name>
+		<id>com.lbe.parallel.intl.arm64</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Lenovo</name>
+		<id>com.lenovo.serviceit</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Mi Calculator</name>
+		<id>com.miui.calculator</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>MV Master - Best Video Maker and Photo Video Editor</name>
+		<id>com.mvmaster.videomaker</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Nonolive - Live Streaming and Video Chat</name>
+		<id>com.nono.android</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Nox Security - Antivirus Master, Clean Virus, Free</name>
+		<id>com.noxgroup.app.security</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Seetime Smart</name>
+		<id>com.ogemray.superapp</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>PLAYit - A New Video Player and Music Player</name>
+		<id>com.playit.videoplayer</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>VivaVideo Lite: Video Editor and Slideshow Maker</name>
+		<id>com.quvideo.vivavideo.lite</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Bed Wars</name>
+		<id>com.sandboxol.indiegame.bedwar</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>WebComics</name>
+		<id>com.webcomics.manga</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Mi Home</name>
+		<id>com.xiaomi.smarthome</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Music Player - Audio Player</name>
+		<id>media.music.musicplayer</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>MangaToon-Good comics, Great stories</name>
+		<id>mobi.mangatoon.comics.aphone</id>
+		<image>/images/android.webp</image>
+	</app>
 </apps>

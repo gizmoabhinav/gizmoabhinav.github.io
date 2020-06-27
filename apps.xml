@@ -584,4 +584,159 @@
 		<id>mobi.mangatoon.comics.aphone</id>
 		<image>/images/android.webp</image>
 	</app>
+	<app>
+		<name>One Booster - Antivirus, Booster, Phone Cleaner</name>
+		<id>com.cleanteam.oneboost</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Crazy Juicer - Slice Fruit Game for Free</name>
+		<id>com.crazy.juicer.xm</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Endless running Ninja</name>
+		<id>com.endlessrunninja.huiyiyou.aha</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>City Racing 3D</name>
+		<id>com.cityracing3D.huiyiyou.aha</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>City Racing</name>
+		<id>com.cityracing.hyy.aha </id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>City Racing 3D</name>
+		<id>com.racergame.cityracing3d</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Rage Racing 3D</name>
+		<id>com.racergame.rageracing</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>VPN free and secure fast proxy shield by GOVPN</name>
+		<id>com.free.vpn.turbo.fast.secure.govpn</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>ePub Reader for Android</name>
+		<id>com.graphilos.epub</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>DWG FastView-CAD Viewer and Editor</name>
+		<id>com.gstarmc.android</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>CareCam</name>
+		<id>com.huiyun.care.viewer.googleplay</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Shikhar</name>
+		<id>com.hul.sambhav</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>eBooks for IAS</name>
+		<id>com.ias.ebooks</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Ryan Parent Portal</name>
+		<id>com.ibee.myclassboard.activity</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>XShare - File  Fast  Transfer</name>
+		<id>com.infinix.xshare</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>U-Mobile - Union Bank of India</name>
+		<id>com.infrasoft.uboi</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Galaxy Glory</name>
+		<id>com.ivy.galaxyglory.shootinggame</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Alarm Clock</name>
+		<id>com.ivymobi.alarmclock.free</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>CLONEit - Batch Copy All Data</name>
+		<id>com.lenovo.anyshare.cloneit</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Dual Space Lite - Multiple Accounts and Clone App</name>
+		<id>com.ludashi.superboost</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Ludo Master - New Ludo Board Game 2020 For Free</name>
+		<id>com.ludo.master.hippo</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Brain Out – Can you pass it?</name>
+		<id>com.mind.quiz.brain.out</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Webnovel</name>
+		<id>com.qidian.Int.reader</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>No Crop and Square for Instagram</name>
+		<id>com.rcplatform.nocrop</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>WiFi Router Password - Setup WiFi Password</name>
+		<id>com.routerpassword.routersetup</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Snake and Blocks</name>
+		<id>com.snakenbolcks.zhuixin.aha</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Notes</name>
+		<id>com.task.notes</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>U-Dictionary: Oxford Dictionary Free Now Translate</name>
+		<id>com.youdao.hindict</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Settings App</name>
+		<id>info.kfsoft.android.appsetting</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Photo Gallery 3D and HD</name>
+		<id>photo.view.hd.gallery</id>
+		<image>/images/android.webp</image>
+	</app>
+	<app>
+		<name>Solitaire</name>
+		<id>solitaire.solitairemaker.solitaire.klondike.card</id>
+		<image>/images/android.webp</image>
+	</app>
 </apps>

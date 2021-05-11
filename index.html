@@ -2,9 +2,9 @@
 <head>
 <script>
 function notifyMe(name) {
- if (Notification.permission !== 'granted')
+ if (Notification.permission !== 'granted'){
   Notification.requestPermission();
- else {
+ } else {
   var notification = new Notification('Notification title', {
    icon: 'https://prod-cdn.preprod.co-vin.in/assets/images/covid19logo.jpg',
    body: 'New vaccine slot opened! ' + name,

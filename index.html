@@ -9,6 +9,7 @@ function Get(url){
     var Httpreq = new XMLHttpRequest();
     Httpreq.open("GET",url,false);
     Httpreq.send(null);
+	document.getElementById("status").innerHTML = 'Status : '+Httpreq.status +' : '+ new Date();
     return Httpreq.responseText;          
 }
  
@@ -78,7 +79,7 @@ function start() {
 			}
 		}
 		document.getElementById("slots").innerHTML = output;
-		if (output !== null) {
+		if (output != null) {
 			var notification = new Notification('Slot opened', {
 						icon: 'https://prod-cdn.preprod.co-vin.in/assets/images/covid19logo.jpg',
 						body: 'New vaccine slot opened! ',
@@ -89,6 +90,7 @@ function start() {
 
 function stop() {
 	clearInterval(timer);
+	document.getElementById("status").innerHTML = '';
 }
 
 </script>
@@ -101,6 +103,7 @@ function stop() {
 	<select name="vaccine" id="vaccine"><option value="any">Any</option><option value="COVAXIN">COVAXIN</option><option value="COVISHIELD">COVISHIELD</option></select>
 	<select name="age" id="age"><option value="any">Any</option><option value="18">18-44</option><option value="45">45+</option></select>
 	<select name="available" id="available"><option value="available">Available</option><option value="booked">Booked</option></select>
+	<p id="status"></p>
 	<p id="slots"></p>
 </body>
 </html>

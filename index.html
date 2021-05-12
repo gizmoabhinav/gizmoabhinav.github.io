@@ -21,7 +21,22 @@
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-  
+<style>
+ul {
+  list-style-type: none;
+  padding: 0;
+  border: 1px solid #ddd;
+}
+
+ul li {
+  padding: 8px 16px;
+  border-bottom: 1px solid #ddd;
+}
+
+ul li:last-child {
+  border-bottom: none
+}
+</style>
 <script>
 
 var timer;
@@ -31,7 +46,7 @@ function Get(url){
     var Httpreq = new XMLHttpRequest();
     Httpreq.open("GET",url,false);
     Httpreq.send(null);
-	document.getElementById("status").innerHTML = 'Status : '+Httpreq.status +' : '+ new Date();
+	document.getElementById("status").innerHTML = 'Status : '+Httpreq.status +' Last checked : '+ new Date();
     return Httpreq.responseText;          
 }
  
@@ -62,7 +77,7 @@ function findSlots(){
 	
 	var url = createUrl(district_id);
 	var json_obj = JSON.parse(Get(url));
-	var output = null;
+	var output = '';
 	for (i = 0;i<json_obj.centers.length;i++) {
 		for (j = 0;j<json_obj.centers[i].sessions.length;j++) {
 			if (availability == "available" && json_obj.centers[i].sessions[j].available_capacity > 0) {
@@ -72,7 +87,7 @@ function findSlots(){
 				if (vaccine != "any" && json_obj.centers[i].sessions[j].vaccine != vaccine) {
 					continue;
 				}
-				output += json_obj.centers[i].name + '</br>';
+				output += '<li>' + json_obj.centers[i].name + '</li>';
 				break;
 			} else if (availability == "booked"  && json_obj.centers[i].sessions[j].available_capacity == 0){
 				if (limit != 0 && json_obj.centers[i].sessions[j].min_age_limit != limit) {
@@ -81,18 +96,20 @@ function findSlots(){
 				if (vaccine != "any" && json_obj.centers[i].sessions[j].vaccine != vaccine) {
 					continue;
 				}
-				output += json_obj.centers[i].name + '</br>';
+				output += '<li>' + json_obj.centers[i].name + '</li>';
 				break;
 			}
 		}
 	}
-	document.getElementById("slots").innerHTML = output;
-	if (output != null) {
+	if (output != '') {
+		document.getElementById("slots").innerHTML =  '<ul>' + output + '</ul>';;
 		var notification = new Notification('Slot opened', {
 					icon: 'https://prod-cdn.preprod.co-vin.in/assets/images/covid19logo.jpg',
 					body: 'New vaccine slot opened! ',
 				});
 		notify.push(notification);
+	} else {
+		document.getElementById("slots").innerHTML = '';
 	}
 }
 
@@ -181,7 +198,7 @@ function testNotification() {
 				<div class="mbr-section-btn mt-3"><a class="btn btn-success display-4" href="javascript:start();">Start</a> <a class="btn btn-success-outline display-4" href="javascript:stop();">Stop</a></div>
 				<div class="mbr-section-btn mt-3"><a class="btn btn-success-outline display-4" href="javascript:testNotification();">Test Notification</a></div>
 				<p id="status"></p>
-				<p id="slots"></p>
+				<div id="slots"></div>
             </div>
         </div>
     </div>

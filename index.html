@@ -79,6 +79,7 @@ function findSlots(){
 	var url = createUrl(district_id);
 	var json_obj = JSON.parse(Get(url));
 	var output = '';
+	var notificationBody = document.getElementById("district").value.split(" ")[1]+'\n';
 	for (i = 0;i<json_obj.centers.length;i++) {
 		for (j = 0;j<json_obj.centers[i].sessions.length;j++) {
 			if (availability == "available" && json_obj.centers[i].sessions[j].available_capacity > 0) {
@@ -95,6 +96,7 @@ function findSlots(){
 					continue;
 				}
 				output += '<li>' + json_obj.centers[i].name + '</li>';
+				notificationBody += json_obj.centers[i].name + '\n';
 				break;
 			} else if (availability == "booked"  && json_obj.centers[i].sessions[j].available_capacity == 0){
 				if (limit != 0 && json_obj.centers[i].sessions[j].min_age_limit != limit) {
@@ -104,6 +106,7 @@ function findSlots(){
 					continue;
 				}
 				output += '<li>' + json_obj.centers[i].name + '</li>';
+				notificationBody += json_obj.centers[i].name + '\n';
 				break;
 			}
 		}
@@ -112,7 +115,7 @@ function findSlots(){
 		document.getElementById("slots").innerHTML =  '<ul>' + output + '</ul>';;
 		var notification = new Notification('Slot opened', {
 					icon: 'https://prod-cdn.preprod.co-vin.in/assets/images/covid19logo.jpg',
-					body: 'New vaccine slot opened! ',
+					body: notificationBody,
 				});
 		notify.push(notification);
 	} else {
@@ -152,7 +155,7 @@ function testNotification() {
 		Notification.requestPermission();
 	var notification = new Notification('Test Notifications', {
 		icon: 'https://prod-cdn.preprod.co-vin.in/assets/images/covid19logo.jpg',
-		body: 'New vaccine slot opened! ',
+		body: 'Test message! \n test hospital',
 	});
 	notify.push(notification);
 }
